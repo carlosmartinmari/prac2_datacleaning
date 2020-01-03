@@ -13,6 +13,10 @@ y el fichero con el código corrido está en un html empaquetado:
 
 prac2_report.html
 
+Puede verse directamente en RPubs:
+
+<http://rpubs.com/carlosmartinmari/563576>
+
 ## Autor
 Carlos Martín
 

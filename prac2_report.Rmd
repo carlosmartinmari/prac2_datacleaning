@@ -2,9 +2,11 @@
 title: "PRA2-Pokémon species"
 author: "Carlos Martin Mari"
 date: "2 de enero de 2020"
-output: html_document
-number_sections: true
-
+output:
+  html_document: default
+  pdf_document: default
+  word_document: default
+number_sections: yes
 ---
 
 ```{r setup, include=FALSE, echo=FALSE}
